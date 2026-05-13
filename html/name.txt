@@ -1,0 +1,12 @@
+0.首頁-index
+2.最新消息-news
+4.會議記錄-minutes
+5.學生論文-studentThesis
+7.招生專區-admission
+11.學術成果-academicAchievement
+12.規章辦法-regulation
+15.校外實習專區-internship
+17.校外徵才榜單-jobVacancyList
+18.榜單-ranking
+
+
